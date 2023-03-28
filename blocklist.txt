@@ -1,7 +1,7 @@
-adservice.google.com
-afs.googlesyndication.com
-adtago.s3.amazonaws.com
-analyticsengine.s3.amazonaws.com
-analytics.s3.amazonaws.com
-advice-ads.s3.amazonaws.com
-advertising-api-eu.amazon.com
+||adservice.google.com^
+||afs.googlesyndication.com^
+||adtago.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
